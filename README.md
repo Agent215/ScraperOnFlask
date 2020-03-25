@@ -19,7 +19,7 @@ The following dependecies should be installed in the virtual environment
 Download the chromedriver for use with selinum <br>
 [chromedriver downloads](https://chromedriver.chromium.org/downloads)
 <br>
-Next you should make a direcotory like
+Next you should make a directory like
 ~~~
 C:/webDriver/bin
 ~~~
