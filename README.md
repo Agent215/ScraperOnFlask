@@ -11,7 +11,7 @@ The following dependecies should be installed in the virtual environment
 - python requests module
 - python beautifulsoup module 
 - chromedriver
-- chromedriver_magnager
+- webdriver manager
 - flask 
 
 **Steps to build** 
@@ -19,7 +19,7 @@ The following dependecies should be installed in the virtual environment
 Download the chromedriver for use with selinum <br>
 [chromedriver downloads](https://chromedriver.chromium.org/downloads)
 <br>
-Next you should make a directory like
+Next you should make a direcotory like
 ~~~
 C:/webDriver/bin
 ~~~
@@ -27,7 +27,11 @@ and add the exe to this
 <br>
 Add this directory to your system environment Path variable. 
 
--create a virtual environment in root directory by typing in a terminal:
+- instal virtual environment by typing in a terminal :
+~~~
+python -m pip install --user virtualenv
+~~~
+- create a virtual environment in root directory by typing in a terminal:
 ~~~
 python3 -m venv venv
 ~~~
@@ -44,11 +48,11 @@ Now install dependencies :
 pip install flask
 pip install selenium
 pip install webdriver_manager
-pip install pip install beautifulsoup4
+pip install beautifulsoup4
 ~~~
 or if beautifulsoup gives problems 
 ~~~
-pip install pip install bs4
+pip install bs4
 ~~~
 while in root directory of project path for main python script  <br>
 if on windows
