@@ -43,7 +43,7 @@ Now install dependencies :
 ~~~
 pip install flask
 pip install selenium
-pip install chromedriver_manager
+pip install webdriver_manager
 pip install pip install beautifulsoup4
 ~~~
 or if beautifulsoup gives problems 
