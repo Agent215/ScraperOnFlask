@@ -1,5 +1,7 @@
 # ScraperOnFlask
-a simple web scraper that logs in to temple university's Dars and scrapes data. runs on flask, uses selenium and beautiful soup
+A simple web scraper that logs in to Temple University. <br>
+Then it scrapes all the courses taken. <br>
+Runs on flask, uses selenium and beautiful soup.
 
 
 ## build instructions 
