@@ -3,6 +3,9 @@ A simple web scraper that logs in to Temple University. <br>
 Then it scrapes all the courses taken. <br>
 Runs on flask, uses selenium and beautiful soup.
 
+## TODO
+I would like to host this on a site like heroku or AWS doesnt really matter.
+
 
 ## build instructions 
 
