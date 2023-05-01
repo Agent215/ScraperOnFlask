@@ -1,6 +1,6 @@
 aniso8601==1.0.0
 Click==7.0
-Flask==1.0
+Flask==2.3.2
 Flask-RESTful==0.3.6
 flask-mysqldb ==0.2.0
 gunicorn==19.5.0
